@@ -27,4 +27,3 @@ function ternaryTeenager(age) {
 }
 
 console.log(ternaryTeenager(true));
-
